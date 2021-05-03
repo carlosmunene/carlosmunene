@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carlosmunene
 - 👀 I’m interested in java,Html,python,javascript
 - 🌱 I’m currently learning android 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on an android project that am currently working on
 - 📫 How to reach me carlosmunenek@gmail.com
 
 <!---
